@@ -1,0 +1,8 @@
+{
+  "name": "Focus Flow V9",
+  "description": "ADHD-friendly task management app with AI breakdown and gamification.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
